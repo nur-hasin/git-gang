@@ -8,6 +8,6 @@ Want to join the Git Gang? Just fill out the form below.
 
 ## Add your entry below this line
 
-- Name: Anirudh Panigrahi
-- Username: Anirudh-020505
-- Message: done 
+- Name: 
+- Username: 
+- Message: 
