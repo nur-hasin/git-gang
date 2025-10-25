@@ -7,7 +7,6 @@ Want to join the Git Gang? Just fill out the form below.
 **Don't forget to star this repository!** ⭐
 
 ## Add your entry below this line
-
-- Name: 
-- Username: 
-- Message: 
+- Name: Broken jsx
+- Username: SuvanshTembe
+- Message: Added My name to Git Gang
